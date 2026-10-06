@@ -2,6 +2,7 @@
 **Date:** 2026-10-05
 **Room:** Inside a Computer  
 **Status:** Completed
+**A+ Relevant:**
 
 ## Goal
 This room is teaching the major parts of a computer and how they work.
@@ -24,3 +25,27 @@ All the parts of the computer and how they all work and where they all go.
 
 ## Questions / Next Steps
 - How can I go deeper into how these parts are constructed?
+
+## CompTIA A+ Connection
+
+This room relates to CompTIA A+ because it covers:
+
+- CPU
+- RAM
+- HDD and SSD storage
+- Motherboards
+- Power supplies
+- Graphics cards
+- Network adapters
+- Input/output devices
+
+### A+ Topics I Need To Study Deeper
+
+- DDR4 vs DDR5
+- DIMM vs SODIMM
+- SATA vs NVMe
+- M.2 drives
+- PCIe
+- Motherboard form factors
+- PSU wattage and connectors
+- Hardware troubleshooting
